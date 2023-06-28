@@ -1,3 +1,4 @@
 function add(a,b){
-    console.log(a+b);
-}
+    const res=a+b;
+    console.log(`The sum is ${res}`);
+};
